@@ -1,0 +1,6 @@
+../Core/Src/freertos.c:111:7:map	32	static
+../Core/Src/freertos.c:116:6:subscription_callback	24	static
+../Core/Src/freertos.c:144:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:191:6:StartDefaultTask	304	static
+../Core/Src/freertos.c:266:6:Led1Task	16	static
+../Core/Src/freertos.c:285:6:Led2Task	16	static
